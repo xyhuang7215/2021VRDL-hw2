@@ -38,6 +38,11 @@ SVHN dataset in yolo format:
 | w/ flipping        |    0.407923     |
 | w/o flipping       |    0.41016      |
 
+## Inference time
+
+- [Colab](https://colab.research.google.com/drive/1ckXJtGHNsR6NxBB6W4iKCW8vkB5u5i2e?usp=sharing)
+
+
 ## Reference
 
 - [PyTorch_YOLOv4](https://github.com/WongKinYiu/PyTorch_YOLOv4)
